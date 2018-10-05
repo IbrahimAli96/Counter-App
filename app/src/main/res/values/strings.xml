@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Counter</string>
+    <string name="increment">Rate</string>
+</resources>
